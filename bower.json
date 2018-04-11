@@ -10,6 +10,16 @@
     "angular-route": "~1.5.0",
     "angular-loader": "~1.5.0",
     "angular-mocks": "~1.5.0",
-    "html5-boilerplate": "^5.3.0"
+    "html5-boilerplate": "^5.3.0",
+    "angular-input-masks": "master",
+    "angular-material": "master",
+    "bootstrap": "master",
+    "bootstrap-toggle": "master",
+    "font-awesome": "master",
+    "angular-messages": "~1.6",
+    "jquery.inputmask": "3.x",
+    "noty": "master",
+    "angular-animate": "~1.6",
+    "angular-bootstrap": "^2.5.0"
   }
 }
