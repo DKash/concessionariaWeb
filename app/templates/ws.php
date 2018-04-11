@@ -9,8 +9,6 @@ $data = json_decode($data);
 $modulo = $data[0]->modulo;
 $funcao = $data[0]->funcao;
 
-error_log("aqui modulo -> " . $modulo . ", funcao -> " . $funcao);
-
 if ($modulo === "salvar") {
     if ($funcao === "cadastrarVeiculo") {
         include_once "ws/salvar_cadastrarVeiculo.php";
