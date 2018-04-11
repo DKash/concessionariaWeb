@@ -1,0 +1,27 @@
+{
+  "name": "concessionariaweb",
+  "description": "concessionaria de veiculos",
+  "type": "project",
+  "minimum-stability": "dev",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "audry martins",
+      "email": "audrysousa91@hotmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "banco\\": "banco",
+      "libraries\\": "libraries"
+    }
+  },
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

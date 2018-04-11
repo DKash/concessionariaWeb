@@ -1,0 +1,111 @@
+div.container-fluid .painel {
+    background-color: #293c50;
+}
+
+div.row .painel {
+    height: 45px;
+}
+
+img.imagem {
+    width: 20px;
+    height: 25px;
+}
+
+div.title {
+    font-size: 18pt;
+    color: whitesmoke;
+    margin: 7px;
+}
+
+input.search {
+    background-color: #3b3b39;
+    border: #293c50;
+    color: darkgrey;
+}
+
+h3.headVeiculo {
+    padding-top: 25px;
+}
+
+i.iconeNovoVeiculo {
+    color: #2f2f2d;
+    font-size: 2em;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+div.borderLineBottom {
+    width: 94%;
+    border-bottom: 1px solid black;
+}
+
+div.listaVeiculos {
+    background-color: white;
+}
+
+div.textCenter {
+    text-align: center;
+}
+
+div.modeloVeiculo {
+    color: #15862a;
+}
+
+div.anoVeiculo {
+    color: grey;
+}
+
+i.tagImagem {
+    color: #2f2f2d;
+    font-size: 2em;
+    margin-top: 12px;
+}
+
+div.detalheVeiculo {
+    color: #15862a;
+    margin-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 18pt;
+}
+
+div.whiteBG {
+    background-color: white;
+    margin-right: 110px;
+}
+
+button.acaoBotaoDetalhe {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div.modalCadastro {
+    background-color: #dde0dd;
+}
+
+input#veiculoCadastro,
+input#marcaCadastro,
+input#anoCadastro,
+textarea#descricaoCadastro {
+    background-color: #dde0dd;
+    border: 1px solid #dde0dd;
+    border-bottom: 1px solid black;
+}
+
+textarea#descricaoCadastro {
+    resize: none;
+}
+
+p.descricaoVeiculo {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+h4#myModalLabel {
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+
+b.excluirModal {
+    text-align: center
+}
